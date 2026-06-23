@@ -21,8 +21,6 @@ App Rentável com Flutter
 
 Kotlin:
 
-Como você já estuda HTML, CSS e JavaScript e gosta de criar sistemas, eu seguiria esta sequência:
-
 Desenvolvimento de Aplicativos Android usando Kotlin
 Receita Fácil – Jetpack Compose, Kotlin, Testes e muito mais
 Domine o Kotlin Multiplataforma na Prática com Compose
