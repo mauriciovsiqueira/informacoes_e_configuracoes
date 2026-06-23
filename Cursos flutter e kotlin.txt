@@ -1,0 +1,28 @@
+Cursos:
+
+Flutter:
+
+Fase 1 — Fundamentos
+Curso Flutter (Cod3r)
+
+Fase 2 — Estrutura Profissional
+Flutter Profissional – Apps Modernos e Boas Práticas 2025
+Gerenciamento de Estado com Flutter
+
+Fase 3 — Nível Mercado
+Flutter App Clean Architecture
+Desenvolvimento Flutter Avançado
+
+Fase 4 — Publicação
+Da Ideia até o Deploy nas Lojas Google e Apple
+
+Fase 5 — Monetização (Opcional)
+App Rentável com Flutter
+
+Kotlin:
+
+Como você já estuda HTML, CSS e JavaScript e gosta de criar sistemas, eu seguiria esta sequência:
+
+Desenvolvimento de Aplicativos Android usando Kotlin
+Receita Fácil – Jetpack Compose, Kotlin, Testes e muito mais
+Domine o Kotlin Multiplataforma na Prática com Compose

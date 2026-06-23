@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Nome do Seu Aplicativo
+Comment=Uma breve descrição do que o aplicativo faz
+Exec=/caminho/absoluto/para/o/seu/executavel
+Icon=/caminho/absoluto/para/o/icone.png
+Terminal=false
+Categories=Utility;Application;
+
+
+chmod +x ~/.local/share/applications/meu-aplicativo.desktop
+
+
+update-desktop-database ~/.local/share/applications/

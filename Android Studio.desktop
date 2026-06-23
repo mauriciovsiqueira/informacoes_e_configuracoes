@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Android Studio
+Comment=IDE
+Exec=/home/linux/Develop/Programas/android-studio-quail1-linux/android-studio/bin/studio
+Icon=/home/linux/Develop/Programas/android-studio-quail1-linux/android-studio/bin/studio.png
+Terminal=false
+Categories=Utility;Application;

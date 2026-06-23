@@ -1,0 +1,69 @@
+Instalação e configuração de ambiente flutter no linux.
+
+Instalar:
+Openjdk (25 é a versão LTS) e Git:
+sudo apt install openjdk-25-jdk git 
+
+Veja se está instalado:
+java --version
+
+Vs Code e Android Studio: 
+Os dois pelo site oficial (Recomendação).
+Veja a documentação e instale o essencial.
+
+Vs code: 
+Extensões -> português brasil, dracula, prettier, dart e flutter.
+Obs.: Code runner (Caso for para estudo executar pelo terminal).
+
+Configurações:
+Format on save -> marcar a caxinha, Autosave -> afterDelay, Auto save delay -> 1000 (Vai habilitar o salvamento automático e por 1000 milisegundos).
+
+Android studio (Ter bastante memoria RAM - 16gb é bom):
+Plugins -> dart e flutter.
+
+Está em more actions:
+Criar emulador android (Virtual device manager).
+
+Instalar o SDK android (SDK manager):
+SDK tools -> Marque o Android sdk comand line tools (latest) e aplicar.
+
+Obs.: O genymotion é uma alternativa (mude o caminho do SDK para funcionar com vs code e deixe rodando o emulador para aparecer), mas o próprio celular é melhor para pc fraco, libere a opção de desenvolvedor -> habilite a depuração usb, instalação por usb e configuração.
+
+Flutter:
+Instalar manual (Recomendação).
+Criar pasta Develop na pasta pessoal.
+Siga as orientações e a documentação.
+São dois passos, instalação de alguns programas e baixar manual o flutter e instalar no pc e configurar no sistema.
+
+Não esqueça de recarregar o bash:
+source ~/.bashrc
+
+Reinicie o terminal e o vs code
+
+Veja se está instalado:
+flutter --version
+dart --version
+
+No terminal:
+flutter doctor
+
+Caso apareça algo é que deu certo, vai verificar e inspecionar se tudo está certo, caso precise ele vai mostrar programas que precisam ser instalados e vai dar os comandos e faça tudo depois tente de novo.
+
+No terminal vá ate a pasta de seus projetos e execute:
+flutter create projeto1
+
+Vai gerar a estrutura do projeto.
+
+Obs.: projeto1 ou nome do projeto.
+
+Na pasta execute:
+code .
+
+Vai abrir a pasta do projeto no vs code.
+
+Ou no Vs code, Crtl + Shift + P, vai abrir uma caixa e escreva Flutter: New Project e enter.
+
+
+
+
+
