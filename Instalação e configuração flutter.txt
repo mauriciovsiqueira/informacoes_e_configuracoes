@@ -12,7 +12,7 @@ Os dois pelo site oficial (Recomendação).
 Veja a documentação e instale o essencial.
 
 Vs code: 
-Extensões -> português brasil, dracula, prettier, dart e flutter.
+Extensões -> português brasil, dracula, material icon theme, prettier, dart e flutter.
 Obs.: Code runner (Caso for para estudo executar pelo terminal).
 
 Configurações:
