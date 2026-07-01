@@ -1,6 +1,24 @@
 Cursos:
 
-Flutter:
+Kotlin:
+
+- Desenvolvimento de Aplicativos Android usando Kotlin
+- Receita Fácil – Jetpack Compose, Kotlin, Testes e muito mais
+- Domine o Kotlin Multiplataforma na Prática com Compose
+- Projetos próprios:
+    Gerenciador financeiro
+    Lista de tarefas
+    Controle de estoque
+    Sistema de compras
+    Agenda
+    Aplicativo de receitas
+    App de delivery
+    Chat
+    Controle de despesas
+- Microsserviços do 0 com Spring Cloud, Kotlin e Docker
+- REST API's RESTFul do 0 à AWS c. Spring Boot Kotlin e Docker
+
+Flutter (Opcional):
 
 Fase 1 — Fundamentos
 Curso Flutter (Cod3r)
@@ -19,8 +37,3 @@ Da Ideia até o Deploy nas Lojas Google e Apple
 Fase 5 — Monetização (Opcional)
 App Rentável com Flutter
 
-Kotlin:
-
-Desenvolvimento de Aplicativos Android usando Kotlin
-Receita Fácil – Jetpack Compose, Kotlin, Testes e muito mais
-Domine o Kotlin Multiplataforma na Prática com Compose
