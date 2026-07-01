@@ -17,6 +17,109 @@ Kotlin:
     Controle de despesas
 - Microsserviços do 0 com Spring Cloud, Kotlin e Docker
 - REST API's RESTFul do 0 à AWS c. Spring Boot Kotlin e Docker
+- Projetos
+    1. API de Gerenciador Financeiro
+        - Backend
+    
+        Login
+        JWT
+        Usuários
+        Categorias
+        Contas
+        Receitas
+        Despesas
+        Cartões
+        Relatórios
+        
+    2. API de Compras
+        Produtos
+        Categorias
+        Estoque
+        Fornecedores
+        Clientes
+        Carrinho
+        Pedidos
+        Pagamentos
+
+    3. API de Delivery
+        Restaurantes
+        Cardápio
+        Pedido
+        Entrega
+        Rastreamento
+        Avaliações
+
+    4. API de Chat
+        WebSocket
+        Login
+        Conversas
+        Grupos
+        Arquivos
+        Notificações
+
+    5. API de Agenda
+        Usuários
+        Eventos
+        Lembretes
+        Convites
+        Calendário
+
+    6. API de Biblioteca
+        Livros
+        Autores
+        Empréstimos
+        Reservas
+
+    7. API de Streaming
+        Filmes
+        Séries
+        Favoritos
+        Histórico
+        Recomendações
+
+    8. API de E-commerce
+        Produtos
+        Carrinho
+        Cupom
+        Pedido
+        Estoque
+        Pagamento
+
+    9. API Bancária (simulada)
+        Sem integração com bancos reais, mas simulando operações:
+        PIX
+        Transferências
+        Extrato
+        Contas
+        Cartões
+        Empréstimos
+
+    10. ERP Completo
+        Este seria um projeto de longo prazo, reunindo vários módulos:
+        Financeiro
+        Compras
+        Estoque
+        Vendas
+        RH
+        Usuários
+        Relatórios
+        Depois de aprender Microsserviços
+        
+        Você pode transformar um sistema monolítico em vários serviços independentes.
+        
+    Por exemplo, no ERP:
+        API Gateway
+        ├── Auth Service
+        ├── User Service
+        ├── Finance Service
+        ├── Product Service
+        ├── Stock Service
+        ├── Order Service
+        ├── Notification Service
+        ├── Report Service
+        └── Payment Service
+        
+        Cada serviço teria seu próprio banco de dados e seria implantado separadamente.
 
 Flutter (Opcional):
 
