@@ -15,7 +15,8 @@ Pela loja ou site.
 
 Tirar a correção ortográfica do inglês e Autosave:
 Menu barras -> Settings -> Natural Languages -> Configure 'Proofreading' inspections... -> Proofreading e desmarque ela.
-Menu barras -> Appearance & Behavior -> System Settings -> Save files if... e marque a caixa e coloque quanto tempo para salvar. 
+Menu barras -> Settings -> Appearance & Behavior -> System Settings -> Save files if... e marque a caixa e coloque quanto tempo para salvar.
+Menu barras -> Settings -> Build, ... -> Build Tools -> Gradle -> Gradle Projects -> Build and run...: (Mude para IntellJ IDEA) e Run tests...: (Mude para IntellJ IDEA).
 Aplique e OK.
 
 Android Studio:
